@@ -1,9 +1,75 @@
-# About Me:
-Senior Software Engineer focused on mobile app development<br>Strong in React Native, native modules, and scalable architecture<br>Experienced in app security: root/jailbreak detection, device integrity, Play Integrity, App Attest<br>Care about clean code, performance, and long-term maintainability<br>Remote-first, ownership-driven, async-friendly collaborator
+# Hey, I'm Rohan 👋
 
+**Senior Software Engineer** building production-grade mobile apps and open-source tooling for the React Native ecosystem.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-singh-b24b06142) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rosingh3342) 
+I work at [To The New](https://www.tothenew.com/), where I ship enterprise mobile applications used by real users in real environments — not just happy-path demos. My focus areas sit at the intersection of **mobile architecture**, **app security**, and **developer tooling**.
 
-# Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+---
+
+### What I care about
+
+🔐 **App Security** — Root/jailbreak detection, device integrity (Play Integrity, App Attest), SSL pinning, encrypted storage, runtime tamper protection. I write about defense-in-depth for mobile because "just add a lock screen" isn't a security strategy.
+
+📐 **Architecture** — Clean module boundaries, scalable navigation patterns, provider-agnostic integration layers. Code that a team of 10 can maintain two years from now without a rewrite.
+
+🔭 **Observability** — On-device debugging, structured logging with composable transports, crash reporting pipelines. If you can't see what's happening in production, you're guessing.
+
+⚡ **Performance** — Hermes, lazy loading, bundle optimization, startup traces. The 200ms that separates "snappy" from "sluggish."
+
+---
+
+### Active projects
+
+| Project | What it is |
+|---|---|
+| [**react-native-telescope**](https://github.com/rohan3342/react-native-telescope) | Production-grade observability & debugging toolkit for React Native — structured logger, adapter-based forwarding (Sentry, Crashlytics, Datadog), shake-to-open debug panel. All on-device, no desktop companion. |
+| [**mobile-engineering-hub**](https://github.com/rohan3342/mobile-engineering-hub) | My knowledge base of enterprise React Native guides — security deep dives, auth architecture, checklists, and implementation playbooks. Published via GitBook. |
+
+### Open-source contributions
+
+| Project | What I did |
+|---|---|
+| [**react-native-vlc-media-player-mobile**](https://github.com/rohan3342/react-native-vlc-media-player-mobile) | Maintained fork of the VLC media player component for React Native. RTSP, RTMP, HLS streaming support. Updated pods for RN 0.61+. |
+| [**react-native-exit-tvos**](https://github.com/rohan3342/react-native-exit-tvos) | Utility for tvOS app exit handling in React Native. |
+
+---
+
+### Tech stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Swift · Kotlin · Objective-C · Java |
+| **Mobile** | React Native CLI · Expo · iOS (UIKit) · Android (Jetpack) |
+| **Architecture** | Clean Architecture · MVVM · Provider-agnostic adapters |
+| **Security** | freeRASP · Firebase App Check · SSL Pinning · Keychain / Keystore |
+| **State Management** | Zustand · Redux Toolkit · TanStack Query · React Context |
+| **Navigation** | React Navigation · Expo Router · Deep linking |
+| **CI/CD** | GitHub Actions · Fastlane · CodePush · EAS |
+| **Testing** | Jest · RNTL · Detox · Maestro |
+| **Observability** | Sentry · Crashlytics · Datadog RUM |
+
+---
+
+### Writing
+
+I write long-form technical guides on mobile engineering:
+
+- 📖 [Defense-in-Depth Implementation Guide](https://github.com/rohan3342/mobile-engineering-hub/blob/main/docs/security/01-rn-security-defense-in-depth.md) — JailMonkey, freeRASP, Firebase App Check, SSL Pinning, Encrypted Storage
+- 📖 [Auth Architecture Guide](https://github.com/rohan3342/mobile-engineering-hub/blob/main/docs/auth/02-rn-auth-architecture.md) — Auth0, JWT, biometric re-auth, session state machines, backend reference
+- ✏️ [Medium](https://medium.com/@rosingh3342)
+
+---
+
+### How I work
+
+- **Ownership-driven** — I don't wait for tickets. If something's broken, I fix it. If something's missing, I build it.
+- **Async-first** — Clear written communication over meetings. PRs that explain *why*, not just *what*.
+- **Quality over speed** — I'd rather ship one well-tested, well-documented feature than three half-baked ones.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-singh-b24b06142/">LinkedIn</a> · 
+  <a href="https://medium.com/@rosingh3342">Medium</a> · 
+  <a href="https://github.com/rohan3342?tab=repositories">All Repos</a>
+</p>
