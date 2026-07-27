@@ -22,7 +22,7 @@ I work at [To The New](https://www.tothenew.com/), where I ship enterprise mobil
 
 | Project | What it is |
 |---|---|
-| [**react-native-telescope**](https://github.com/rohan3342/react-native-telescope) | Production-grade observability & debugging toolkit for React Native — structured logger, adapter-based forwarding (Sentry, Crashlytics, Datadog), shake-to-open debug panel. All on-device, no desktop companion. |
+| [**react-native-observability**](https://github.com/rohan3342/react-native-observability) | Production-grade observability & debugging toolkit for React Native — structured logger, adapter-based forwarding (Sentry, Crashlytics, Datadog), shake-to-open debug panel. All on-device, no desktop companion. |
 | [**mobile-engineering-hub**](https://github.com/rohan3342/mobile-engineering-hub) | My knowledge base of enterprise React Native guides — security deep dives, auth architecture, checklists, and implementation playbooks. Published via GitBook. |
 
 ### Open-source contributions
